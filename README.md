@@ -1,3 +1,3 @@
 # UI-Design
 
-![alt text](http://url/to/img.png)
+![alt text](img/1.jpg)
