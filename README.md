@@ -1,4 +1,5 @@
 # UI-Design
+This is my UI design throughout my college life!
 
 ![alt text](img/1.jpg)
 ![alt text](img/hu.jpg)
